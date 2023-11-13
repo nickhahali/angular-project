@@ -1,0 +1,32 @@
+#header .header-content {
+    height: 80vh;
+    /* Sample */
+    padding: 5rem;
+    /* Sample */
+    color: white;
+}
+
+.header-content .header-picture {
+    /* background-image: url(''); */
+    /* Sample */
+    width: 330px;
+    /* Sample */
+    height: 550px;
+    /* Sample */
+    border: 4px solid white;
+    /* Sample */
+}
+
+.header-content .header-text .header-text-title h1 {
+    font-size: 4rem;
+    /* Sample */
+}
+
+.header-content .header-text .header-text-span p {
+    font-size: 1.1rem;
+    /* Sample */
+    letter-spacing: 20px;
+    /* Sample */
+}
+
+/* Header Almost End */
